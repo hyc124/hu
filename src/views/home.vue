@@ -6,7 +6,7 @@
                 <span>huhu</span>
             </van-grid-item>
             <van-grid-item>
-                <span>huhuhuhu</span>
+                <span>huhu</span>
             </van-grid-item>
             <van-grid-item>
                 <span>huhu</span>
